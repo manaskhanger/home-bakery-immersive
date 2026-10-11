@@ -1,0 +1,6 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #1d332d; color: #fff; font-family: system-ui, sans-serif; overflow: hidden; }
+canvas { display: block; }
+.overlay { position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(0,0,0,0.6); padding: 1rem; border-radius: 12px; max-width: 320px; }
+button { background: #e8a87c; color: #1d332d; border: none; padding: 0.6rem 1.2rem; border-radius: 8px; cursor: pointer; font-weight: 600; }
+button:hover { background: #f0b890; }
